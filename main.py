@@ -1,5 +1,5 @@
 #Autor: Gerardo Mathus
-#fecha: 23 de agosto de 2019
+#fecha: 7 mayo 2024
 
 print("Hola mundo")
 print("Soy un archivo de python 3")
